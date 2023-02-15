@@ -1,13 +1,6 @@
 title: <p align="center"> Pulkit Gangwar </p> 
 logo: /assets/img/logo.png
-description: <p align="center"> |
-  <a href="https://www.linkedin.com/in/pulkitgangwar/">LinkedIn</a> |
-  <a href="https://github.com/pulkitgangwar">GitHub</a>
-  
-  <br>   
-  Hi I am Pulkit Gangwar , I am an experienced web developer. I have previously worked on e-commerce and educational tech projects. I am specialized in html ,css ,javascript ,react.js ,next.js ,node.js ,express.js ,postgres ,typescript
-  <br>
-  </p>
+description: Hi I am Pulkit Gangwar , I am an experienced web developer. I have previously worked on e-commerce and educational tech projects. I am specialized in html ,css ,javascript ,react.js ,next.js ,node.js ,express.js ,postgres ,typescript
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
